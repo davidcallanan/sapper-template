@@ -1,0 +1,5 @@
+/node_modules/
+/src/node_modules/
+/__sapper__/
+/yarn-debug.log
+/yarn-error.log
