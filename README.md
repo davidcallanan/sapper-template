@@ -11,3 +11,5 @@ You need [npm](https://npmjs.com) to run the above command.
 Sapper will likely be soon discontinued as SvelteKit gains traction.
 
 <b>Consider [using the SvelteKit template](https://github.com/davidcallanan/sveltekit-template) instead.</b>
+
+I will no longer be updating this repository.
